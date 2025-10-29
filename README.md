@@ -13,3 +13,13 @@ The objectives of this project are:
 5.  To measure customer engagement and satisfaction levels through the average rating metric.
 6. To understand branch-level performance and how customer type influences sales within each branch.
 7.  To identify actionable insights that can guide business strategies, improve sales efficiency, and enhance customer experience.
+
+## Insights and Interpretation
+• Health & Beauty, Sports & Travel, and Food & Beverages are the top-performing product categories, driving the majority of sales revenue.
+• Branch C (Naypyitaw) recorded the highest sales.
+• E-wallet payments are the most preferred payment method.
+• Normal customers generate more total revenue than Members.
+• Sales performance peaked in March after a February dip
+• The average customer rating of 6.89 indicates moderate satisfaction, highlighting opportunities for service quality improvements.
+• Electronic Accessories and Fashion Accessories significantly underperformed.
+
