@@ -6,13 +6,13 @@ This project analyzes a supermarket sales dataset containing detailed informatio
 
 ## Objectives
 The objectives of this project are:
-1.  To analyze overall sales performance across different product categories, cities, and branches to identify key revenue drivers.
-2.  To evaluate customer distribution and purchasing behavior based on customer type, gender, and payment method.
-3.  To monitor monthly sales trends in order to identify peak and low-performing periods.
- 4. To assess product category performance by comparing total sales and average unit prices across cities.
-5.  To measure customer engagement and satisfaction levels through the average rating metric.
-6. To understand branch-level performance and how customer type influences sales within each branch.
-7.  To identify actionable insights that can guide business strategies, improve sales efficiency, and enhance customer experience.
+* To analyze overall sales performance across different product categories, cities, and branches to identify key revenue drivers.
+* To evaluate customer distribution and purchasing behavior based on customer type, gender, and payment method.
+* To monitor monthly sales trends in order to identify peak and low-performing periods.
+* To assess product category performance by comparing total sales and average unit prices across cities
+* To measure customer engagement and satisfaction levels through the average rating metric.
+* To understand branch-level performance and how customer type influences sales within each branch.
+* To identify actionable insights that can guide business strategies, improve sales efficiency, and enhance customer experience.
 
 ## Insights and Interpretation
 • Health & Beauty, Sports & Travel, and Food & Beverages are the top-performing product categories, driving the majority of sales revenue.
